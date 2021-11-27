@@ -16,7 +16,6 @@
 		8586A1BA275189F700EAE6EB /* FRMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8586A1B9275189F700EAE6EB /* FRMTests.swift */; };
 		8586A1C4275189F800EAE6EB /* FRMUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8586A1C3275189F800EAE6EB /* FRMUITests.swift */; };
 		8586A1C6275189F800EAE6EB /* FRMUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8586A1C5275189F800EAE6EB /* FRMUITestsLaunchTests.swift */; };
-		8586A1D427518A6000EAE6EB /* ContentsquareModule.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8586A1D327518A6000EAE6EB /* ContentsquareModule.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +57,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8586A1D427518A6000EAE6EB /* ContentsquareModule.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
